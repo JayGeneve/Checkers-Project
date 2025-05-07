@@ -2,7 +2,7 @@
 
 Welcome to **Jay's Checkers**, a complete 2-player checkers game built in Python with Pygame. This project showcases object-oriented programming, interactive graphics, and classic board game logic. It’s perfect for anyone interested in learning game development fundamentals or enhancing their Python skills with a fun project.
 
-![Checkers Gameplay](assets/screenshot.png)
+
 
 ---
 
